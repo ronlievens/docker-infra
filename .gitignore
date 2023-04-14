@@ -1,0 +1,33 @@
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# ELK
+/elk/data
+/elk/logs
+
+# Grafana
+/grafana/data
+/grafana/logs
+
+# Jenkins
+/jenkins/data
+/jenkins/slave_one
+/jenkins/slave_two
+
+# Docker configuration files
+/prometheus/prometheus.yml
+/prometheus/data
+
+# Mailhog Mail directory
+/mailhog/mails
+
+# Sonarqube
+/sonarqube/sonarqube-community-branch-plugin-1.3.2.jar
+/sonarqube/data
+/sonarqube/extensions
+/sonarqube/logs
